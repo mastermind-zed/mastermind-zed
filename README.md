@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Adjei</h1>
-<h3 align="center">UI/UX and Graphics designer</h3>
+<h3 align="center">UI/UX and Graphics Designer</h3>
 
 <p align="left"> <a href="https://twitter.com/_iamniiengmann" target="blank"><img src="https://img.shields.io/twitter/follow/_iamniiengmann?logo=twitter&style=for-the-badge" alt="_iamniiengmann" /></a> </p>
 
