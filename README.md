@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 👯 I’m looking to collaborate on **C/C++ , Python**
+- 👯 I’m looking to collaborate on **C/C++, Python**
 
 - 🤝 I’m looking for help with **C/C++**
 
-- 💬 Ask me about **C++ , Java**
+- 💬 Ask me about **C++, Java**
 
 - 📫 How to reach me **niiadjei0169@gmail.com**
 
