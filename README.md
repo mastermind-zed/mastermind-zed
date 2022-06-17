@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, ZED Here</h1>
 <h3 align="center">“Before you start some work, always ask yourself three questions"</h3>
 <h3 align="center">-Why am I doing it.</h3>
-<h3 align="center">-What the results might be and,</h3>
+<h3 align="center">-What the results might be and.</h3>
 <h3 align="center">-Will I be successful.</h3>
 
 <p align="center"> <a href="https://twitter.com/_iamniiengmann" target="blank"><img src="https://img.shields.io/twitter/follow/_iamniiengmann?logo=twitter&style=for-the-badge" alt="_iamniiengmann" /></a> </p>
