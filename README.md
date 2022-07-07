@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, ZED Here...</h1>
-<h1 align="center">https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47yz9mthf2jb9yh7cme05a46lujyo7n8ga73biaut2&rid=giphy.gif&ct=g](https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/coding.gif)](https://c.tenor.com/NOYF3f82b_gAAAAS/programmer.gif)</h1>
+<h1 align="center">[https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47yz9mthf2jb9yh7cme05a46lujyo7n8ga73biaut2&rid=giphy.gif&ct=g](https://raw.githubusercontent.com/Kaellyn/Kaellyn/main/charts/coding.gif)](https://c.tenor.com/NOYF3f82b_gAAAAS/programmer.gif)](https://c.tenor.com/NOYF3f82b_gAAAAS/programmer.gif)![image](https://user-images.githubusercontent.com/101351154/177885164-45a2e97d-c68d-487a-99d6-0ccb8f9a462e.png)</h1>
 <h3 align="center">“Before you start some work, always ask yourself three questions"</h3>
 <h3 align="center">-Why am I doing it,</h3>
 <h3 align="center">-What the results might be and,</h3>
