@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, ZED Here...</h1>
-<h1 align="center">![5](https://user-images.githubusercontent.com/101351154/177885234-f90e93ba-c131-48d6-b2d4-b1b165267f1b.jpeg)</h1>
 <h3 align="center">“Before you start some work, always ask yourself three questions"</h3>
 <h3 align="center">-Why am I doing it,</h3>
 <h3 align="center">-What the results might be and,</h3>
