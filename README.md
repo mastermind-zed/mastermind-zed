@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **any of my public repositories. If you have improvements to submit, make a fork.**
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **C++, Java.**
 
 - 📫 How to reach me **niiadjei0169@gmail.com**
 
