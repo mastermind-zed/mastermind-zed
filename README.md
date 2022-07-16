@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **C/C++, Python.**
 
-- 🤝 I’m looking for help with **any of my public repositories. If you have improvements to submit, make a fork**
+- 🤝 I’m looking for help with **any of my public repositories. If you have improvements to submit, make a fork.**
 
 - 💬 Ask me about **C++, Java**
 
