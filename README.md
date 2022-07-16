@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **niiadjei0169@gmail.com**
 
-- ⚡ Fun fact **I am still a student**
+- ⚡ Fun fact **I am still a student.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
