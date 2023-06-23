@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/_iamniiengmann" target="blank"><img src="https://img.shields.io/twitter/follow/_iamniiengmann?logo=twitter&style=for-the-badge" alt="_iamniiengmann" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastermind-zed&label=Profile%20views&color=blue&style=plastic"  alt="mastermind-zed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mastermind-zed&label=Profile%20views&color=blue&style=plastic"  alt="mastermind-zed" /> </p>
 
 - 🌱 I’m currently learning **Software Engineering at ALX.**
 
