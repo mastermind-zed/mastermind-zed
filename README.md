@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://twitter.com/_iamniiengmann" target="blank"><img src="https://img.shields.io/twitter/follow/_iamniiengmann?logo=twitter&style=for-the-badge" alt="_iamniiengmann" /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mastermind-zed&label=Profile%20views&color=blue&style=plastic"  alt="mastermind-zed" /> </p>
-
 - 🌱 I’m currently learning **Software Engineering at ALX.**
 
 - 👯 I’m looking to collaborate on **C/C++, Python, Graphic And Product Designing.**
@@ -35,7 +33,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/mastermind-zed)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/mastermind-zed)
-[![Mac](https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Mac)](https://github.com/mastermind-zed)
+[![Mac](https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple)](https://github.com/mastermind-zed)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastermind-zed&show_icons=true&locale=en&layout=compact" alt="mastermind-zed" /></p>
 
