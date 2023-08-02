@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastermind-zed&show_icons=true&locale=en" alt="mastermind-zed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mastermind-zed&" alt="mastermind-zed" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c96272c3203c879322aaa0?variant=dark)](https://roadmap.sh)
