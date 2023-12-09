@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX.**
 
-- 👯 I’m looking to collaborate on **C/C++, Python, Graphic And Product Designing.**
+- 👯 I’m looking to collaborate on **Web designing, Python, Graphic And Product Designing.**
 
 - 🤝 I’m looking for help with **any of my public repositories. If you have improvements to submit, make a fork.**
 
