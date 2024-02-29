@@ -33,7 +33,6 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/mastermind-zed)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/mastermind-zed)
 [![MacOS](https://img.shields.io/badge/Mac-black?style=for-the-badge&logo=Apple)](https://github.com/mastermind-zed)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastermind-zed&show_icons=true&locale=en&layout=compact" alt="mastermind-zed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mastermind-zed&show_icons=true&locale=en" alt="mastermind-zed" /></p>
