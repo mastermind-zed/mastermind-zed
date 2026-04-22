@@ -7,7 +7,7 @@
 I am a passionate researcher and data scientist specializing in the application of **Machine Learning** and **Deep Learning** to solve critical problems in **Medical Informatics** and **Agro-Computing**. My work focuses on building robust predictive systems that bridge the gap between complex data and real-world clinical or agricultural decisions.
 
 - 🔬 Currently developing: Advanced ensembles for **Stroke Prediction** and clinical data optimization.
-- 🎓 Academic Focus: Resolving class imbalance and bias in critical diagnostic datasets.
+- 🎓 Academic Focus: Resolving class imbalance and clinical diagnostic bias.
 - 🚜 Interest Areas: Medical Imaging, Precision Agriculture (Agro-Computing), and Diagnostic Analysis.
 
 ---
@@ -17,18 +17,26 @@ I am a passionate researcher and data scientist specializing in the application 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python |
-| **Machine Learning** | Scikit-learn, XGBoost, CatBoost, LightGBM, Imbalanced-Learn |
-| **Deep Learning** | ANN, CNN (Research Application) |
+| **Deep Learning** | CNN (Segmentation), ANN, Transfer Learning |
+| **Machine Learning** | XGBoost, CatBoost, Scikit-learn, Imbalanced-Learn |
 | **Data Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Version Control** | Git & GitHub |
+| **Image Process** | OpenCV, PIL (Research Application) |
 
 ---
 
-### 🚀 Highlighted Research Project
+### 🚀 Research Portfolio
 
-#### [**Stroke-Prediction-Ensemble**](https://github.com/mastermind-zed/Stroke-Prediction-Ensemble)
-A comprehensive Research project that optimizes imbalanced clinical data using a comparative evaluation of oversampling techniques and boosting ensembles. 
-- **Result**: Successfully increased diagnostic Recall to **72%** using the ROS-CatBoost framework.
+#### 🧠 [**Stroke Prediction Ensemble Framework**](https://github.com/mastermind-zed/Stroke-Prediction-Ensemble)
+A Research implementation optimizing imbalanced clinical data using ROS and Gradient Boosting.
+- **Key Result**: 0.84 AUC and 72% Sensitivity.
+
+#### 🩺 [**Skin Lesion Segmentation**](https://github.com/mastermind-zed/Skin-Lesion-Segmentation)
+Utilizing Deep Learning (CNNs) for the automated segmentation and identification of clinical skin lesions.
+- **Focus**: Computer Vision in Dermatology.
+
+#### 📉 [**Early Disease Risk Prediction Framework**](https://github.com/mastermind-zed/Early-Disease-Risk-Prediction-Framework)
+A multi-modal risk assessment framework designed for early detection of chronic clinical conditions.
+- **Focus**: Predictive Health Analytics.
 
 ---
 
@@ -38,4 +46,3 @@ A comprehensive Research project that optimizes imbalanced clinical data using a
 ---
 
 > "Turning complex clinical and agricultural datasets into actionable intelligence through refined Machine Learning."
-
