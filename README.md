@@ -34,7 +34,6 @@ A comprehensive MSc Research project that optimizes imbalanced clinical data usi
 
 ### 📫 Connect with me:
 - 💼 **LinkedIn**: [linkedin.com/in/samuel-adjei](https://www.linkedin.com/in/samuel-adjei-ab5170219)
-- 📧 **Location**: Research Hub (CS & Health Data)
 
 ---
 
