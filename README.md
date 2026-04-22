@@ -27,7 +27,7 @@ I am a passionate researcher and data scientist specializing in the application 
 ### 🚀 Highlighted Research Project
 
 #### [**Stroke-Prediction-Ensemble**](https://github.com/mastermind-zed/Stroke-Prediction-Ensemble)
-A comprehensive MSc Research project that optimizes imbalanced clinical data using a comparative evaluation of oversampling techniques and boosting ensembles. 
+A comprehensive Research project that optimizes imbalanced clinical data using a comparative evaluation of oversampling techniques and boosting ensembles. 
 - **Result**: Successfully increased diagnostic Recall to **72%** using the ROS-CatBoost framework.
 
 ---
